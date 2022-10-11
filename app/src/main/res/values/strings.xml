@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom_Selector_Colors_View</string>
+
+
+    <string-array name="colors_list">
+        <item> #E57373</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#00BCD4</item>
+        <item>#CDDC39</item>
+        <item>#4CAF50</item>
+    </string-array>
+</resources>
